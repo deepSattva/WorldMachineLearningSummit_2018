@@ -90,5 +90,13 @@ teaching material. Please upgrade already installed packages by executing
 Data Downloads
 --------------
 
+1. The data can be downloaded from here. 
+2. Make a new directory called `Data` inside the repo parent directory and copy rest of the data directories there 
+
+Citation- 
+The data uploaded above is taken from below site and uploaded just for ease of access 
+https://github.com/muschellij2/Neurohacking_data
+https://challenge2018.isic-archive.com/
+
 
 
