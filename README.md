@@ -1,5 +1,5 @@
 # WorldMachineLearningSummit_2018
-Repo for [World Machine Learning Summit](https://1point21gws.com/machinelearning/bangalore/index.html Workshop)- "Image Segmentation using Deep Learning"
+Repo for [World Machine Learning Summit](https://1point21gws.com/machinelearning/bangalore/index.html) - "Image Segmentation using Deep Learning"
 
 
 Instructors and Overview
@@ -9,7 +9,7 @@ Instructors and Overview
 - Saurabh Jha -  Deep Learning Architect at Dell
 
 This repository will contain the teaching material and other info associated with our workshop
-at [World Machine Learning Summit](https://1point21gws.com/machinelearning/bangalore/index.html Workshop) held on 6th December 2018
+at [World Machine Learning Summit](https://1point21gws.com/machinelearning/bangalore/index.html) held on 6th December 2018
 
 We have the workshop divided into 3 parts
 1. Introduction to PyTorch
