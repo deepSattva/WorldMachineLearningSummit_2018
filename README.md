@@ -90,13 +90,15 @@ teaching material. Please upgrade already installed packages by executing
 Data Downloads
 --------------
 
-1. The data can be downloaded from here. 
+1. The data can be downloaded from [here](https://drive.google.com/drive/folders/1KN-iIR5qcykmkUY8eqWXaldu4ujfRNsb?usp=sharing).
 2. Make a new directory called `Data` inside the repo parent directory and copy rest of the data directories there 
+
 
 Citation- 
 The data uploaded above is taken from below site and uploaded just for ease of access 
-https://github.com/muschellij2/Neurohacking_data
-https://challenge2018.isic-archive.com/
+ - https://github.com/muschellij2/Neurohacking_data
+ - https://challenge2018.isic-archive.com/
+ Note: The full ISIC dataset can be downloaded easily by using the ISIC Archive dowload package from [here](https://github.com/GalAvineri/ISIC-Archive-Downloader)
 
 
 
