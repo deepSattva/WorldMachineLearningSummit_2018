@@ -52,11 +52,11 @@ Installation Notes
 1. Using Anaconda Distribution 
 
 A relatively painless way to install all the requirements is to use a Python distribution
-such as [Anaconda CE](http://store.continuum.io/ "Anaconda CE"), which includes
+such as [Anaconda CE](https://www.anaconda.com/download/), which includes
 the most relevant Python packages for science, math, engineering, and
 data analysis; Anaconda can be downloaded and installed for free
 including commercial use and redistribution.
-The code examples in this tutorial should be compatible to Python 3.6
+The code examples in this tutorial should be compatible to Python 3.6-3.7
 
 2. Manually installing additional packages
 
