@@ -68,6 +68,7 @@ This tutorial will require recent installations of
 - [nibabel](http://nipy.org/nibabel/) ```pip install nibabel ```
 - [nilearn](https://nilearn.github.io/) ```pip install nilearn ```
 - [pydicom](https://pydicom.github.io/pydicom/stable/getting_started.html) ```pip install -U pydicom ```
+- [medicaltorch](https://medicaltorch.readthedocs.io/en/stable/index.html) ``` pip install medicaltorch ```
 
 Installation of PyTorch will take time and that is the main Library used in the workshop so its highly recommended to install it before you attend the workshop
 The last one is important, you should be able to type:
