@@ -102,5 +102,12 @@ The data uploaded above is taken from below site and uploaded just for ease of a
  - https://challenge2018.isic-archive.com/
  Note: The full ISIC dataset can be downloaded easily by using the ISIC Archive dowload package from [here](https://github.com/GalAvineri/ISIC-Archive-Downloader)
 
+Acknowledgments
+--------------
+  - https://medium.com/@taposhdr/medical-image-analysis-with-deep-learning-i-23d518abf531
+  - https://datashare.is.ed.ac.uk/bitstream/handle/10283/2216/NiftivsAnalyze_MVH_140714.pdf?sequence=1&isAllowed=y
+  - https://github.com/yuanqing811/ISIC2018
+  - https://github.com/milesial/Pytorch-UNet/tree/master/unet
+  
 
 
